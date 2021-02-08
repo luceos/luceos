@@ -10,6 +10,7 @@ Mostly a Laravel back end developer, with a broad variety of other skills.
 
 #### 💵 Commercial
 
+- Co-Founder of [Blomstra](https://blomstra.net) managed Flarum hosting.
 - Commissioned Flarum extensions and consultancy through [@hyn](https://hyn.me).
 - Flarum extension tooling through [@extiverse](https://extiverse.com).
 
