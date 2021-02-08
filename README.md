@@ -12,3 +12,5 @@ Mostly a Laravel back end developer, with a broad variety of other skills.
 
 - Commissioned Flarum extensions and consultancy through [@hyn](https://hyn.me).
 - Flarum extension tooling through [@extiverse](https://extiverse.com).
+
+![](https://github-readme-stats.vercel.app/api?username=luceos&show_icons=true&theme=radical)
