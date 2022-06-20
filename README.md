@@ -15,3 +15,4 @@ Mostly a Laravel back end developer, with a broad variety of other skills.
 - Flarum extension tooling through [@extiverse](https://extiverse.com).
 
 ![](https://github-readme-stats.vercel.app/api?username=luceos&show_icons=true&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=luceos)
