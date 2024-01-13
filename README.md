@@ -10,7 +10,6 @@ Mostly a Laravel back end developer, with a broad variety of other skills.
 
 #### 💵 Commercial
 
-- Lead developer at [Cloudmazing](https://cloudmazing.nl) a Laravel certified company.
 - Co-Founder of [Blomstra](https://blomstra.net) Flarum development & managed Flarum hosting.
 - Flarum extension tooling through [@extiverse](https://extiverse.com).
 
