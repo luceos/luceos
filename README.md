@@ -10,8 +10,7 @@ Mostly a Laravel back end developer, with a broad variety of other skills.
 
 #### 💵 Commercial
 
-- Co-Founder of [Blomstra](https://blomstra.net) Flarum development & managed Flarum hosting.
-- Flarum extension tooling through [@extiverse](https://extiverse.com).
+- Co-Founder of [Flarum BV](https://blomstra.net), commercial companion to the Flarum Foundation.
 
 ![](https://github-readme-stats.vercel.app/api?username=luceos&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=luceos)
